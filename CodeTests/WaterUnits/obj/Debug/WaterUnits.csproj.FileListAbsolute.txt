@@ -1,0 +1,7 @@
+C:\MiscCode\CodeTests\WaterUnits\obj\Debug\WaterUnits.csprojResolveAssemblyReference.cache
+C:\MiscCode\CodeTests\WaterUnits\obj\Debug\WaterUnits.csproj.CoreCompileInputs.cache
+C:\MiscCode\CodeTests\WaterUnits\bin\Debug\WaterUnits.exe.config
+C:\MiscCode\CodeTests\WaterUnits\bin\Debug\WaterUnits.exe
+C:\MiscCode\CodeTests\WaterUnits\bin\Debug\WaterUnits.pdb
+C:\MiscCode\CodeTests\WaterUnits\obj\Debug\WaterUnits.exe
+C:\MiscCode\CodeTests\WaterUnits\obj\Debug\WaterUnits.pdb

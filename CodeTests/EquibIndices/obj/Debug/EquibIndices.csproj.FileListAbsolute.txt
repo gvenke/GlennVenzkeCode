@@ -1,0 +1,7 @@
+C:\MiscCode\CodeTests\EquibIndices\bin\Debug\EquibIndices.exe.config
+C:\MiscCode\CodeTests\EquibIndices\bin\Debug\EquibIndices.exe
+C:\MiscCode\CodeTests\EquibIndices\bin\Debug\EquibIndices.pdb
+C:\MiscCode\CodeTests\EquibIndices\obj\Debug\EquibIndices.csproj.CoreCompileInputs.cache
+C:\MiscCode\CodeTests\EquibIndices\obj\Debug\EquibIndices.exe
+C:\MiscCode\CodeTests\EquibIndices\obj\Debug\EquibIndices.pdb
+C:\MiscCode\CodeTests\EquibIndices\obj\Debug\EquibIndices.csprojResolveAssemblyReference.cache

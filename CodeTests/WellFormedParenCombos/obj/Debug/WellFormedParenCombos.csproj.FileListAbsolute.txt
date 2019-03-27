@@ -1,0 +1,7 @@
+C:\MiscCode\CodeTests\WellFormedParenCombos\bin\Debug\WellFormedParenCombos.exe.config
+C:\MiscCode\CodeTests\WellFormedParenCombos\bin\Debug\WellFormedParenCombos.exe
+C:\MiscCode\CodeTests\WellFormedParenCombos\bin\Debug\WellFormedParenCombos.pdb
+C:\MiscCode\CodeTests\WellFormedParenCombos\obj\Debug\WellFormedParenCombos.csprojResolveAssemblyReference.cache
+C:\MiscCode\CodeTests\WellFormedParenCombos\obj\Debug\WellFormedParenCombos.csproj.CoreCompileInputs.cache
+C:\MiscCode\CodeTests\WellFormedParenCombos\obj\Debug\WellFormedParenCombos.exe
+C:\MiscCode\CodeTests\WellFormedParenCombos\obj\Debug\WellFormedParenCombos.pdb

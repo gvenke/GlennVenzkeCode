@@ -1,0 +1,7 @@
+C:\MiscCode\CodeTests\Intervals\bin\Debug\Intervals.exe.config
+C:\MiscCode\CodeTests\Intervals\bin\Debug\Intervals.exe
+C:\MiscCode\CodeTests\Intervals\bin\Debug\Intervals.pdb
+C:\MiscCode\CodeTests\Intervals\obj\Debug\Intervals.csprojResolveAssemblyReference.cache
+C:\MiscCode\CodeTests\Intervals\obj\Debug\Intervals.csproj.CoreCompileInputs.cache
+C:\MiscCode\CodeTests\Intervals\obj\Debug\Intervals.exe
+C:\MiscCode\CodeTests\Intervals\obj\Debug\Intervals.pdb

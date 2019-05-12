@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intervals", "Intervals\Inte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EquibIndices", "EquibIndices\EquibIndices.csproj", "{9298F642-5978-44F9-8EFD-846FED9F8200}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{7B6029A7-F1E6-435F-A905-8B5D4980AEED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{9298F642-5978-44F9-8EFD-846FED9F8200}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9298F642-5978-44F9-8EFD-846FED9F8200}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9298F642-5978-44F9-8EFD-846FED9F8200}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B6029A7-F1E6-435F-A905-8B5D4980AEED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B6029A7-F1E6-435F-A905-8B5D4980AEED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B6029A7-F1E6-435F-A905-8B5D4980AEED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B6029A7-F1E6-435F-A905-8B5D4980AEED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
